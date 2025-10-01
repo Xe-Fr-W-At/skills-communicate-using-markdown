@@ -1,5 +1,4 @@
 <header>
-
 <!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
@@ -7,9 +6,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Communicate using Markdown
+# How to Defeat God
 
-_Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
+_This is a guide for aspiring heretics and usurpers alike._
 
 </header>
 
@@ -21,38 +20,38 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   Encourage users to open new tabs for steps!
 -->
 
-## Step 1: Add headers
+## Step 1: Venture into the depths of hell
 
-_Welcome to "Communicate using Markdown"! :wave:_
+_Only the bravest dare its horrifying onslaughts._
 
-**What is _Markdown_?** Markdown is a [lightweight syntax](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for communicating on GitHub. You can format text to add a heading, lists, **bold**, _italics_, tables, and many other stylings. You can use Markdown in most places around GitHub:
+You will need the following materials:
+Fire-resistant clothing, 
+a water bottle,
+a large blanket,
+earplugs,
+a sacred weapon of choice,
+and one large bag of various insects.
 
-- Comments on [issues](https://docs.github.com/issues/tracking-your-work-with-issues/about-issues), [pull requests](https://docs.github.com/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests), and [discussions](https://docs.github.com/discussions/collaborating-with-your-community-using-discussions/about-discussions)
-- Files with the `.md` or `.markdown` extension
-- Sharing snippets of text in [Gists](https://docs.github.com/github/writing-on-github/editing-and-sharing-content-with-gists/creating-gists)
+## Step 2: Find a _Malus furbica_ nest
 
-**What is a _header_?** A header is a larger bit of text at the beginning of a section. There are six sizes.
+**This is important:** If the guardian is present, you must follow the custom
+and offer one finger or toe as a sacrifice. **DO NOT** attempt to bypass the guardian
+unless you enjoy when monstrosities slurp up your entrails like spaghetti.
 
-### Example
+## Step 3: Accept an egg
 
-```md
-# This is an `<h1>` header, which is the largest
+The guardian will allow you to take one furby egg from its nest.
+You will need to place it in the blanket until it hatches, 
+at which point you will need to feed it bugs from your bag.
 
-## This is an `<h2>` header
+## Step 4: World domination
+![](https://ih1.redbubble.net/image.3356223470.6233/raf,360x360,075,t,fafafa:ca443f4786.jpg)
+### MUAHAHAHAHAHAHAHAHAHAHAHAHA
 
-###### This is an `<h6>` header, which is the smallest
-```
 
-#### How it looks
 
-# This is an `<h1>` header, which is the largest
 
-## This is an `<h2>` header
-
-###### This is an `<h6>` header, which is the smallest
-
-### :keyboard: Activity: Edit your file with headers
-
+<!--
 1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
 1. Open the **pull requests** tab.
 1. Click **New pull request**, for the branches to compare, select `base: main` and `compare: start-markdown`.
@@ -67,10 +66,10 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 <footer>
 
-<!--
+
   <<< Author notes: Footer >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
--->
+
 
 ---
 
@@ -79,3 +78,4 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
+-->
